@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Taller1Movil</string>
+    <string name="app_nombre">Aplicación multifuncional</string>
+    <string name="triqui">TicTacToe</string>
+    <string name="random_greet">Random Greet</string>
+    <string name="paises">Countries</string>
+    <string-array name="idiomas">
+        <item>French</item>
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
 </resources>
