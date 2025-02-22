@@ -2,5 +2,10 @@
 <resources>
     <color name="background">#F8F5FC</color>
     <color name="buttonColor">#6A3EB6</color>
+    <color name="buttonColor2">#ffffff</color>
     <color name="white">#FFFFFF</color>
+    <color name="blue">#4A40B5</color>
+    <color name="green">#32FF32</color>
+
+
 </resources>
