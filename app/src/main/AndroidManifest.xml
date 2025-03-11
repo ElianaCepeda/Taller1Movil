@@ -13,9 +13,6 @@
         android:theme="@style/Theme.Taller1Movil"
         tools:targetApi="31">
         <activity
-            android:name=".CountryAdapter"
-            android:exported="false" />
-        <activity
             android:name=".DetallePaisActivity"
             android:exported="false" />
         <activity
