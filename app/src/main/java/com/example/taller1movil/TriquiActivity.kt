@@ -6,7 +6,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.taller1movil.databinding.ActivityTriquiBinding
 
-class ActivityTriqui : AppCompatActivity() {
+class TriquiActivity : AppCompatActivity() {
     private lateinit var binding: ActivityTriquiBinding
     private var currentPlayer = "X"
     private val board = Array(3) { arrayOfNulls<String>(3) }

@@ -7,8 +7,10 @@
     <string name="jugador_2">PLAYER TWO (O)</string>
     <string name="reinicio">New game</string>
     <string-array name="idiomas">
-        <item>French</item>
-        <item>English</item>
-        <item>Spanish</item>
+        <item>Español</item>
+        <item>Inglés</item>
+        <item>Francés</item>
+        <item>Aleman</item>
+        <item>Italiano</item>
     </string-array>
 </resources>
