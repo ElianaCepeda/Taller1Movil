@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
             "Español" -> "¡Hola!"
             "Inglés" -> "Hello!"
             "Francés" -> "Bonjour!"
-            "Alemán" -> "Hallo!"
+            "Aleman" -> "Hallo!"
             "Italiano" -> "Ciao!"
             else -> "Saludo no disponible"
         }
